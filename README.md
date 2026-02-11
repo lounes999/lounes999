@@ -5,7 +5,7 @@
 **Data Scientist junior** | **Python • Airflow • Dagster • Docker**  
 J’aime transformer des idées en **prototypes reproductibles** (data, ML, pipelines).
 
-📍 Montréal (QC) • 🎓 Cégep Hochelaga (campus Citadelle) • 🧪 MTLHack
+📍 ottawa (ON) • 🎓 college la cité  
 
 </div>
 
@@ -21,21 +21,20 @@ J’aime transformer des idées en **prototypes reproductibles** (data, ML, pipe
 
 ## 🧰 Stack (principale)
 **Python** • **SQL** • **Airflow** • **Dagster** • **Docker** • Git • Linux  
-(ajoute/retire ici selon tes repos)
+
 
 ---
 
 ## 📌 Projets à la une
-> Remplace les liens par tes meilleurs repos (2–4 max).
 
 - **🔁 Data Pipeline (Dagster/Airflow)** — orchestration, scheduling, logs, retries  
-  Repo : https://github.com/lounes999/TON_REPO
+  Repo : https://github.com/lounes999/
 
 - **📈 Projet ML (classification/régression)** — EDA, features, training, métriques, interprétation  
-  Repo : https://github.com/lounes999/TON_REPO
+  Repo :https://github.com/lounes999/ProjectIA_mlflow_dagshub_2025
 
 - **🧪 Prototype reproductible (Docker)** — setup clean, run en 1 commande  
-  Repo : https://github.com/lounes999/TON_REPO
+  Repo : https://github.com/lounes999/
 
 ---
 
