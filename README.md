@@ -28,13 +28,12 @@ J’aime transformer des idées en **prototypes reproductibles** (data, ML, pipe
 ## 📌 Projets à la une
 
 - **🔁 Data Pipeline (Dagster/Airflow)** — orchestration, scheduling, logs, retries  
-  Repo : https://github.com/lounes999/
+  Repo : https://github.com/lounes999/ProjectIA_mlflow_dagshub_2025
 
 - **📈 Projet ML (classification/régression)** — EDA, features, training, métriques, interprétation  
   Repo :https://github.com/lounes999/ProjectIA_mlflow_dagshub_2025
 
-- **🧪 Prototype reproductible (Docker)** — setup clean, run en 1 commande  
-  Repo : https://github.com/lounes999/
+
 
 ---
 
@@ -49,8 +48,8 @@ J’aime transformer des idées en **prototypes reproductibles** (data, ML, pipe
 ---
 
 ## 🌐 Liens
-- 📩 Email : behloulilounes8@gmail.com
-- 🗂️ Portfolio : https://lounes999.github.io
+- 📩 Email : behloulilounes24@gmail.com
+- 🗂️ Portfolio : https://github.com/lounes999
 - 🔗 Project info : https://lounes999.github.io/project-info
 - 🧠 Kaggle : https://www.kaggle.com/lounesbehlouli
 - ✍️ Blog : https://blog.hub.lounes999
