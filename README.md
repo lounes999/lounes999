@@ -49,7 +49,6 @@ Repo : https://github.com/lounes999/ProjectIA_mlflow_dagshub_2025
 
 Repo : https://github.com/lounes999/ProjectIA_mlflow_dagshub_2025
 
-> Remarque : si tu as 2 repos différents, remplace le 2e lien par le bon lien.
 
 ---
 
