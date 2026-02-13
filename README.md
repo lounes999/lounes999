@@ -30,7 +30,7 @@ Je construis des projets de bout en bout : **préparer les données → entraîn
 
 ---
 
-## Projets (exemples)
+## Projets 
 ### 1) Data Pipeline (Dagster / Airflow)
 **Objectif :** automatiser un flux data (ingestion → transformation → export) avec observabilité.  
 **Points clés :**
